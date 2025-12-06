@@ -6,7 +6,7 @@ enum Gender {
 export const Alums = [
     {
         name: 'Yash Saraswat',
-        designation_a: 'Dev at Othentic Labs',
+        designation_a: 'Senior Protocol Engineer at Aleph Finance ',
         image: '/team_images/panic.png',
         github: 'https://github.com/0xpanicError/',
         twitter: 'https://twitter.com/0xpanicError/',
@@ -33,7 +33,7 @@ export const Alums = [
     },
     {
         name: 'Prabhat Verma',
-        designation_a: 'SoB 24 at Bitcoin core',
+        designation_a: 'Rust Engineer at Galoy',
         image: '/team_images/prabhat.jpg',
         github: 'https://github.com/Prabhat1308/',
         twitter: 'https://x.com/pr0b0t1sc00l/',
@@ -60,7 +60,7 @@ export const Alums = [
     },
     {
         name: 'Barun Sethi',
-        designation_a: 'Designer',
+        designation_a: 'Product Designer at Yulu',
         image: '/team_images/barun.jpg',
         github: '',
         twitter: '',
