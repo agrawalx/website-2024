@@ -183,7 +183,8 @@ export const Team = [
     },
     {
         name: 'Bipasha',
-        designation_a: 'Gsoc 2025 @OSGeo',
+        designation_a: 'Core Member', 
+        designation_b: 'Gsoc 2025 @OSGeo',
         image: '/team_images/bipasha.jpeg',
         github: 'https://github.com/bipashabg',
         twitter: 'https://x.com/sunaslore',
@@ -192,7 +193,8 @@ export const Team = [
     },
     {
         name: 'Ayush Chandekar',
-        designation_a: 'Gsoc 2025 @Git',
+        designation_a: 'Core Member', 
+        designation_b: 'Gsoc 2025 @Git',
         image: '/team_images/ayush.jpeg',
         github: 'https://github.com/ayu-ch',
         twitter: 'https://x.com/0xbl4ze',
@@ -201,7 +203,8 @@ export const Team = [
     },
     {
         name: 'Namay Rohatgi',
-        designation_a: 'Gsoc 2025 @ProjectHoneyNet'  ,
+        designation_a: 'Core Member', 
+        designation_b: 'Gsoc 2025 @ProjectHoneyNet' ,
         image: '/team_images/namay.jpeg',
         github: 'https://github.com/namay26',
         twitter: 'https://x.com/NamayRohatgi',
