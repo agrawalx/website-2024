@@ -16,13 +16,13 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Shourya Goel',
-        designation_a: 'Head of Research',
-        designation_b: 'Research Intern at University of Illinois Urbana-Champaign',
-        image: '/team_images/shourya_g.jpeg',
-        github: 'https://github.com/Sh0g0-1758/',
-        twitter: 'https://x.com/ShogLoFi/',
-        linkedin: 'https://www.linkedin.com/in/shourya-goel-03b18724b/',
+        name: 'Vasu Khanna',
+        designation_a: 'Vice President',
+        designation_b: 'SDE at Anthias',
+        image: '/team_images/vasu.jpg',
+        github: 'https://github.com/star-gazer111/',
+        twitter: 'https://x.com/_stargazer12/',
+        linkedin: 'https://www.linkedin.com/in/vasu-k-4411a3252/',
         gender: Gender.Male
     },
     {
@@ -36,23 +36,24 @@ export const Team = [
         gender: Gender.Male
     },
     {
+        name: 'Shourya Goel',
+        designation_a: 'Head of Research',
+        designation_b: 'Research Intern at University of Illinois Urbana-Champaign',
+        image: '/team_images/shourya_g.jpeg',
+        github: 'https://github.com/Sh0g0-1758/',
+        twitter: 'https://x.com/ShogLoFi/',
+        linkedin: 'https://www.linkedin.com/in/shourya-goel-03b18724b/',
+        gender: Gender.Male
+    },
+    {
         name: 'Preeti Karnwal',
         designation_a: 'Head of Security',
+        designation_b: 'Previous Intern at Adobe',
         image: '/team_images/preeti.jpeg',
         github: 'https://github.com/blueh4mster/',
         twitter: 'https://x.com/cherryboss0604/',
         linkedin: 'https://www.linkedin.com/in/preeti-karnwal-715772261/',
         gender: Gender.Female
-    },
-    {
-        name: 'Vasu Khanna',
-        designation_a: 'Vice President',
-        designation_b: 'SDE at Anthias',
-        image: '/team_images/vasu.jpg',
-        github: 'https://github.com/star-gazer111/',
-        twitter: 'https://x.com/_stargazer12/',
-        linkedin: 'https://www.linkedin.com/in/vasu-k-4411a3252/',
-        gender: Gender.Male
     },
     {
         name: 'Himanshu Raheja',
@@ -66,6 +67,7 @@ export const Team = [
     {
         name: 'Mradul Singhal',
         designation_a: 'Core Member',
+        designation_b: 'Previous intern at Samsung', 
         image: '/team_images/mradul.jpg',
         github: 'https://github.com/cy4n1d3-p1x3l/',
         twitter: 'https://x.com/0xcyanide/',
@@ -111,25 +113,6 @@ export const Team = [
         gender: Gender.Male
     },
     {
-        name: 'Aniruddh Yadav',
-        designation_a: 'Core Member',
-        designation_b: 'Dev at Anthiasxyz',
-        image: '/team_images/aniruddh_.jpg',
-        github: 'https://github.com/0xcirxle/',
-        twitter: 'https://x.com/0xCirxle/',
-        linkedin: 'https://www.linkedin.com/in/aniruddh-yadav-259490299/',
-        gender: Gender.Male
-    },
-    {
-        name: 'Rishik Pulhani',
-        designation_a: 'Core Member',
-        image: '/team_images/rishik.jpg',
-        github: 'https://github.com/Rishikpulhani/',
-        twitter: 'https://x.com/rishikpulhani/',
-        linkedin: 'https://www.linkedin.com/in/rishik-pulhani-9b0147290/',
-        gender: Gender.Male
-    },
-    {
         name: 'Veer Chaurasia',
         designation_a: 'Core Member',
         image: '/team_images/veer.jpg',
@@ -140,7 +123,8 @@ export const Team = [
     },
     {
         name: 'Abdullah Azeem',
-        designation_a: 'SoB \'25',
+        designation_a: 'Core Member',
+        designation_b: 'Summer of bitcoin \'25',
         image: '/team_images/abdullah.jpg',
         github: 'https://github.com/ABD-AZE/',
         twitter: 'https://x.com/ABD__AZE/',
@@ -149,7 +133,8 @@ export const Team = [
     },
     {
         name: 'Shourya Chaudhry',
-        designation_a: 'Core Member',
+        designation_a: 'Core member',
+        designation_b: 'Intern at fluid',
         image: '/team_images/shourya_c.jpg',
         github: 'https://github.com/18aaddy',
         twitter: 'https://x.com/xprvAaddy/',
@@ -179,6 +164,7 @@ export const Team = [
     {
         name: 'Harrish Bansal',
         designation_a: 'Core Member',
+        designation_b: 'Pldg contributor',
         image: '/team_images/harrish.jpg',
         github: 'https://github.com/Haxry/',
         twitter: 'https://x.com/makaaaaveli/',
@@ -188,6 +174,7 @@ export const Team = [
     {
         name: 'Ajay Odedra',
         designation_a: 'Designer',
+        designation_b: 'Intern at capx',
         image: '/team_images/ajay.jpg',
         github: 'https://github.com/Spyder111A/',
         twitter: 'https://x.com/AjayOdedra84029/',
@@ -196,7 +183,7 @@ export const Team = [
     },
     {
         name: 'Bipasha',
-        designation_a: 'Gsoc 2025 - Student Developer',
+        designation_a: 'Gsoc 2025 @OSGeo',
         image: '/team_images/bipasha.jpeg',
         github: 'https://github.com/bipashabg',
         twitter: 'https://x.com/sunaslore',
@@ -205,7 +192,7 @@ export const Team = [
     },
     {
         name: 'Ayush Chandekar',
-        designation_a: 'Gsoc 2025 - Student Developer',
+        designation_a: 'Gsoc 2025 @Git',
         image: '/team_images/ayush.jpeg',
         github: 'https://github.com/ayu-ch',
         twitter: 'https://x.com/0xbl4ze',
@@ -214,7 +201,7 @@ export const Team = [
     },
     {
         name: 'Namay Rohatgi',
-        designation_a: 'Gsoc 2025 - Student Developer'  ,
+        designation_a: 'Gsoc 2025 @ProjectHoneyNet'  ,
         image: '/team_images/namay.jpeg',
         github: 'https://github.com/namay26',
         twitter: 'https://x.com/NamayRohatgi',
@@ -223,7 +210,8 @@ export const Team = [
     },
     {
         name: 'Akshat',
-        designation_a: 'Intern at Anthiasxyz',
+        designation_a: 'Core Member',
+        designation_b: 'Intern at Anthiasxyz',
         image: '/team_images/akshat.jpg',
         github: 'https://github.com/dev-n-dough',
         twitter: 'https://x.com/0xAech',
@@ -237,6 +225,25 @@ export const Team = [
         github: 'https://github.com/iitianpushkar',
         twitter: 'https://x.com/0xPushkar',
         linkedin: 'https://in.linkedin.com/in/pushkar-kumar-17a763292',
+        gender: Gender.Male
+    },
+    {
+        name: 'Aniruddh Yadav',
+        designation_a: 'Core Member',
+        designation_b: 'Dev at Anthiasxyz',
+        image: '/team_images/aniruddh_.jpg',
+        github: 'https://github.com/0xcirxle/',
+        twitter: 'https://x.com/0xCirxle/',
+        linkedin: 'https://www.linkedin.com/in/aniruddh-yadav-259490299/',
+        gender: Gender.Male
+    },
+    {
+        name: 'Rishik Pulhani',
+        designation_a: 'Core Member',
+        image: '/team_images/rishik.jpg',
+        github: 'https://github.com/Rishikpulhani/',
+        twitter: 'https://x.com/rishikpulhani/',
+        linkedin: 'https://www.linkedin.com/in/rishik-pulhani-9b0147290/',
         gender: Gender.Male
     },
     {

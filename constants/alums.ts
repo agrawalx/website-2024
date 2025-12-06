@@ -24,7 +24,7 @@ export const Alums = [
     },
     {
         name: 'Samaredra Gouda',
-        designation_a: 'Dev at Instadapp',
+        designation_a: 'Engineer at Instadapp',
         image: '/team_images/samarendra_.jpg',
         github: 'https://github.com/SamarendraGouda/',
         twitter: 'https://x.com/0xSamarendra/',
@@ -51,7 +51,7 @@ export const Alums = [
     },
     {
         name: 'Naman Harwani',
-        designation_a: 'Designer',
+        designation_a: 'Engineer at NSE',
         image: '/team_images/naman.jpg',
         github: 'https://github.com/burgerdrummer/',
         twitter: 'https://twitter.com/BurgerDrummer/',
