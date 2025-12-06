@@ -28,7 +28,7 @@ export const Team = [
     {
         name: 'Nilav Prajapati',
         designation_a: 'Vice President',
-        designation_b: 'Upcoming DEV at Oracle',
+        designation_b: 'Upcoming Dev at Oracle',
         image: '/team_images/nilav.jpg',
         github: 'https://github.com/gerceboss/',
         twitter: 'https://twitter.com/gerceboss_21/',
