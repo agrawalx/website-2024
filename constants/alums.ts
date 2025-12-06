@@ -107,7 +107,7 @@ export const Alums = [
     },
     {
         name: 'Alok Kumar',
-        designation_a: 'Core Member',
+        designation_a: 'Researcher at Secbit',
         image: '/team_images/alok.jpg',
         github: 'https://github.com/surfer05/',
         twitter: 'https://x.com/surfer__05/',
@@ -134,7 +134,7 @@ export const Alums = [
     },
     {
         name: 'Shashank Trivedi',
-        designation_a: 'Core Member',
+        designation_a: 'Founder Privote',
         image: '/team_images/shashank.jpg',
         github: 'https://github.com/lordshashank/',
         twitter: 'https://x.com/0xlord_forever/',
@@ -143,7 +143,7 @@ export const Alums = [
     },
     {
         name: 'Puspendra',
-        designation_a: 'Core Member',
+        designation_a: 'Building Privote', 
         image: '/team_images/puspendra.jpg',
         github: 'https://github.com/silent-cipher/',
         twitter: 'https://x.com/silent_c1pher/',

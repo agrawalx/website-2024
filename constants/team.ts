@@ -58,6 +58,7 @@ export const Team = [
     {
         name: 'Himanshu Raheja',
         designation_a: 'Core Member',
+        designation_b: 'Previous Intern at Quadeye', 
         image: '/team_images/himanshu.jpg',
         github: 'https://github.com/harry2855/',
         twitter: 'https://x.com/ImHraheja/',
@@ -67,7 +68,7 @@ export const Team = [
     {
         name: 'Mradul Singhal',
         designation_a: 'Core Member',
-        designation_b: 'Previous intern at Samsung', 
+        designation_b: 'Previous Intern at Samsung', 
         image: '/team_images/mradul.jpg',
         github: 'https://github.com/cy4n1d3-p1x3l/',
         twitter: 'https://x.com/0xcyanide/',
@@ -77,6 +78,7 @@ export const Team = [
     {
         name: 'Hardik Kansal',
         designation_a: 'Core Member',
+        designation_b: 'Previous Intern at Samsung', 
         image: '/team_images/hardik.jpg',
         github: 'https://github.com/hardik-kansal/',
         twitter: 'https://x.com/Slappy_TD/',
